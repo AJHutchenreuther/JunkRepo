@@ -1,5 +1,5 @@
 # JunkRepo
-Tutorial File to be deleted when done
+Sandbox Repo for tutorials and experimentation.  To be deleted any time.
 
-A change made at 6:17
+Last change 20180714
 
